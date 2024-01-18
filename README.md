@@ -7,6 +7,7 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🌱 I’m currently learning **MERN,Java**
 
 - 📝 I regularly write articles on [https://medium.com/@kasuniwijesiri2002](https://medium.com/@kasuniwijesiri2002)
