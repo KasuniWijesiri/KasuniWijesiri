@@ -1,4 +1,5 @@
-![Github Banner]( )
+<!-- GIF HEADER -->
+<img src="https://github.com/KasuniWijesiri/KasuniWijesiri/raw/main/assets/banner-header.gif">
  
 <h1 align="center">Hi 👋, I'm Kasuni Wijesiri</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
